@@ -82,6 +82,10 @@ Currently working on production apps in the **labour-tech** and **connectivity**
 
 ## 📊 GitHub Stats
 
+> 💡 **Note:** Most of my professional contributions were made through company GitHub accounts
+> at **Sisol Labour Projects** and **LabourX**. My personal repos here reflect personal and side projects only.
+> I'm happy to walk you through the production systems I've built — check out [LabourX](https://www.labourx.app/) & [SisolConnex](https://www.sisolconnex.com/).
+
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cherlton&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF6B00&text_color=ffffff"/>
