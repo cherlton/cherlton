@@ -51,6 +51,19 @@ Currently working on production apps in the **labour-tech** and **connectivity**
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+**DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**AI Tools**
+
+![Antigravity](https://img.shields.io/badge/Antigravity_IDE-0D1117?style=for-the-badge&logo=googlegemini&logoColor=00FFFF)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![AIzCode](https://img.shields.io/badge/AIzCode-FF6B00?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
+
 ---
 
 ## 🚀 Live Projects
@@ -62,7 +75,8 @@ Currently working on production apps in the **labour-tech** and **connectivity**
 | 📚 **Textbook Trader** | Full-stack web app for trading textbooks | [View on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7360219911060619264/) |
 | 🎵 **AI Mood DJ** | AI-powered music mood selector | [View on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7360247363614969856/) |
 | ⚡ **ISP SpeedTest Pro** | Internet speed test tool | [View on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7364728634764410882/) |
-| 💈 **Barber Shop App** | Full-stack barber booking application | [GitHub](https://github.com/cherlton/Barber-web-App-final-project-) |
+| 🛡️ **SafetyNet** | Safety monitoring and alert system | [GitHub](https://github.com/cherlton/SafetyNet) |
+| 🤖 **SuperAI** | AI-powered intelligent assistant application | [GitHub](https://github.com/cherlton/SuperAI) |
 
 ---
 
@@ -70,7 +84,7 @@ Currently working on production apps in the **labour-tech** and **connectivity**
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cherlton&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF6B00&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cherlton&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF6B00&text_color=ffffff"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherlton&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=ffffff"/>
 
@@ -78,7 +92,7 @@ Currently working on production apps in the **labour-tech** and **connectivity**
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cherlton&theme=radical&hide_border=true&background=0D1117&stroke=00FFFF&ring=FF6B00&fire=FF6B00&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=00FFFF&sideNums=00FFFF&dates=888888" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=cherlton&theme=radical&hide_border=true&background=0D1117&stroke=00FFFF&ring=FF6B00&fire=FF6B00&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=00FFFF&sideNums=00FFFF&dates=888888" alt="GitHub Streak"/>
 
 </div>
 
