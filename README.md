@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="assets/readme-photo.png" alt="Nhlangano Cherlton Mhangwana" width="220"/>
+<img src="https://raw.githubusercontent.com/cherlton/chl_portfolio/main/public/cherlton-avatar.jpg" alt="Nhlangano Cherlton Mhangwana" width="220"/>
 
 </div>
 
