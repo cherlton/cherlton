@@ -1,122 +1,115 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF,FF6B00&height=200&section=header&text=Cherlton%20Mhangwana&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Open%20to%20Opportunities&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF,FF6B00&height=200&section=header&text=Cherlton%20Mhangwana&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20Mobile%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
-<br/>
+# Nhlangano Cherlton Mhangwana
 
-## 👋 Hey, I'm Cherlton!
+Software Engineer and Full-Stack & Mobile Developer based in Johannesburg, South Africa. I build practical, scalable applications across web, mobile, APIs, AI, HR technology, marketplaces, and connectivity tools.
 
-I'm a **Full-Stack Developer** based in 📍 Johannesburg, South Africa — passionate about building scalable, real-world applications that solve meaningful problems.
+I am passionate about continuous growth, problem-solving, clean architecture, and creating software that is useful to real people. I am currently open to internship and junior software development opportunities where I can learn, contribute, and grow into an independent engineer.
 
-Currently working on production apps in the **labour-tech** and **connectivity** space, and always open to exciting new opportunities.
+- Portfolio: [chlportfolio.vercel.app](https://chlportfolio.vercel.app)
+- LinkedIn: [linkedin.com/in/nhlangano-mhangwana-4418612a4](https://www.linkedin.com/in/nhlangano-mhangwana-4418612a4)
+- Email: [cherltonmhangwana@gmail.com](mailto:cherltonmhangwana@gmail.com)
 
-- 🔭 Currently building: **[LabourX](https://www.labourx.app/)** & **[SisolConnex](https://www.sisolconnex.com/)**
-- 💼 Open to: Full-Stack, Back-End, or Front-End roles
-- 📫 Reach me at: **cherltonmhangwana@gmail.com**
-- 🌐 Portfolio: **[chlportfolio.vercel.app](https://chlportfolio.vercel.app)**
+## 🤖 Interactive AI Portfolio
 
----
+This portfolio turns a traditional CV into an interactive experience. Visitors can ask questions about my background, skills, experience, projects, and availability. The chat uses Gemini through a server-side API route, while structured tool responses display focused portfolio sections such as projects, skills, experience, contact details, and my resume.
 
 ## 🛠️ Tech Stack
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-**Frontend**
+**Frontend and Mobile**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**Backend & Frameworks**
+**Backend, Data, and AI**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![OpenAI](https://img.shields.io/badge/AI%20Integrations-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 
-**Databases**
+**Tools and Platforms**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-**DevOps**
-
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**AI Tools**
+## 🚀 Featured Projects
 
-![Antigravity](https://img.shields.io/badge/Antigravity_IDE-0D1117?style=for-the-badge&logo=googlegemini&logoColor=00FFFF)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
-![AIzCode](https://img.shields.io/badge/AIzCode-FF6B00?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
-
----
-
-## 🚀 Live Projects
-
-| Project | Description | Link |
+| Project | What it does | Links |
 |---|---|---|
-| 🟠 **LabourX** | Labour-tech platform connecting workers and employers | [labourx.app](https://www.labourx.app/) |
-| 🔵 **SisolConnex** | Connectivity solutions platform | [sisolconnex.com](https://www.sisolconnex.com/) |
-| 📚 **Textbook Trader** | Full-stack web app for trading textbooks | [View on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7360219911060619264/) |
-| 🎵 **AI Mood DJ** | AI-powered music mood selector | [View on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7360247363614969856/) |
-| ⚡ **ISP SpeedTest Pro** | Internet speed test tool | [View on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7364728634764410882/) |
-| 🛡️ **SafetyNet** | Safety monitoring and alert system | [GitHub](https://github.com/cherlton/SafetyNet) |
-| 🤖 **SuperAI** | AI-powered intelligent assistant application | [GitHub](https://github.com/cherlton/SuperAI) |
+| 🛡️ **SafetyNet** | Community safety incident reporting through WhatsApp, AI-assisted data extraction, and geospatial storage. | [Live](https://safetynet-pied.vercel.app/) · [GitHub](https://github.com/cherlton/Safetynet) |
+| 🎵 **Mood DJ** | Mood-based music discovery using Gemini to interpret natural-language feelings and Spotify to recommend music. | [Live](https://mood-dj-mu.vercel.app/) · [GitHub](https://github.com/cherlton/Mood-Dj) |
+| 🧠 **Insight Sphere** | AI creator intelligence platform for trend analysis, niche discovery, content generation, and creator analytics. | [Live](https://super-ai-zeta-nine.vercel.app/) · [GitHub](https://github.com/cherlton/super-AI) |
+| ⚡ **Network ISP Speed Test** | Network diagnostics tool for measuring speed, latency, stability, and ISP bottlenecks. | [Live](https://network-testing-app-beta.vercel.app/) · [GitHub](https://github.com/cherlton/network_testingApp) |
+| 📄 **Lumora** | React Native document scanner with OCR and tap-to-define functionality powered by AI and NLP services. | [Portfolio details](https://chlportfolio.vercel.app) |
+| 👥 **Labour X** | HR operations platform for onboarding, staff records, documentation, approvals, and compliance workflows. | [Live](https://labourx.app/) |
+| 🔗 **SisolConnex** | Recruiter-facing talent platform with responsive candidate discovery and profile management experiences. | [Live](https://www.sisolconnex.com/) |
 
----
+## 💼 Experience Snapshot
 
-## 📊 GitHub Stats
+- **Frontend Developer, Sisol Labour Project:** Built responsive React and TypeScript interfaces, integrated C# APIs, and automated HR documentation workflows.
+- **Software Engineer Intern, Fluid Intellect:** Shipped Flask, React, and React Native features for production applications supporting 1,000+ active users.
+- **IT Support Agent, Afrihost:** Resolved high-priority network and ISP incidents while performing root-cause analysis and supporting SLA delivery.
 
-> 💡 **Note:** Most of my professional contributions were made through company GitHub accounts
-> at **Sisol Labour Projects** and **LabourX**. My personal repos here reflect personal and side projects only.
-> I'm happy to walk you through the production systems I've built — check out [LabourX](https://www.labourx.app/) & [SisolConnex](https://www.sisolconnex.com/).
+## 🚀 Run Locally
 
-<div align="center">
+### Prerequisites
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cherlton&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF6B00&text_color=ffffff"/>
+- Node.js 18 or higher
+- pnpm 10 or compatible pnpm version
+- Gemini API key for the chat feature
+- GitHub token for optional GitHub integration features
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherlton&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=ffffff"/>
+### Setup
 
-</div>
+```bash
+git clone https://github.com/cherlton/chl_portfolio.git
+cd chl_portfolio
+pnpm install
+```
 
-<div align="center">
+Create a local `.env` file. Keep it private and never commit it:
 
-<img src="https://streak-stats.demolab.com/?user=cherlton&theme=radical&hide_border=true&background=0D1117&stroke=00FFFF&ring=FF6B00&fire=FF6B00&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=00FFFF&sideNums=00FFFF&dates=888888" alt="GitHub Streak"/>
+```env
+GEMINI_API_KEY=your_gemini_api_key_here
+GEMINI_MODEL=gemini-3.6-flash
+GITHUB_TOKEN=your_github_token_here
+```
 
-</div>
+Start the development server:
 
----
+```bash
+pnpm dev
+```
 
-## 📬 Let's Connect
+Open [http://localhost:3000](http://localhost:3000).
+
+## 📬 Connect
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=About.me&logoColor=white)](https://chlportfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nhlangano-mhangwana-4418612a4/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cherltonmhangwana@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cherlton)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF,FF6B00&height=100&section=footer" width="100%"/>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cherlton)
 
 </div>
