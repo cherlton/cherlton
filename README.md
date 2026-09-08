@@ -4,6 +4,12 @@
 
 </div>
 
+<div align="center">
+
+<img src="assets/readme-photo.png" alt="Nhlangano Cherlton Mhangwana" width="220"/>
+
+</div>
+
 # Nhlangano Cherlton Mhangwana
 
 Software Engineer and Full-Stack & Mobile Developer based in Johannesburg, South Africa. I build practical, scalable applications across web, mobile, APIs, AI, HR technology, marketplaces, and connectivity tools.
